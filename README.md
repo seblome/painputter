@@ -5,7 +5,9 @@ Future versions will open up the program for a broader usage.
 
 # Instructions
 Download PaInputter and place a /data/ folder inside the workspace in which you will place all .psydat files.
+
 The PaInputter will automatically generate a .csv dataset containing the specified estimates of interest from the chosen subject.
+
 For every new participant, the dataset will be concatenated with the new data, which allows for hypothesis testings of interest.
 
 # Required external python modules
